@@ -1,0 +1,7 @@
+opensfm extract_metadata path/to/images
+opensfm detect_features path/to/images
+opensfm match_features path/to/images
+opensfm create_tracks
+opensfm reconstruct
+opensfm mesh
+opensfm undistort path/to/images
